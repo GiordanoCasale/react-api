@@ -23,7 +23,7 @@ function App() {
       <div className="container">
         <div className="row mb-4">
           <div className="col-12">
-            <h1>Actresses</h1>
+            <h1>Lista Attrici</h1>
           </div>
         </div>
         <div className="row g-3">
